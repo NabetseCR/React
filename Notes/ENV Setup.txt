@@ -1,0 +1,14 @@
+- NodeJS
+- NPM
+- Visual Studio Code
+- Git
+- React Developer Tools for Chrome
+- Postman
+
+Visual Studio extensions
+
+- ES7+ React/Redux snippets
+- Bracket Pair color dlw
+- Github theme
+- Javascript (ES6) code snippets
+- Prettier
